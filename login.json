@@ -1,0 +1,6 @@
+{
+	"type" : "login",
+	"result" : 1,
+	"message" : "成功登录",
+	"username" : "kinfen"
+}

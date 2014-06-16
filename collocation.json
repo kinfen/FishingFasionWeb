@@ -1,0 +1,45 @@
+{
+	"type" : "collocation",
+	"background" : "http://127.0.0.1/~apple/fishing/img/sets/sets_bg0.png",
+	"title" : "2014冬",
+	"collocation_tips" : 
+	[
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		}
+	],
+	"collocation_pics" : 
+	[
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
+		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png"
+	]
+}

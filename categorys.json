@@ -1,0 +1,36 @@
+{
+	"type" : "categorys",
+	"data" : [
+		{
+			"name" : "brand",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"name_cn" : "品牌介绍"
+		},
+		{
+			"name" : "video",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/video@2x.png",
+			"name_cn" : "视频欣赏"
+		},
+		{
+			"name" : "poster",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/poster@2x.png",
+			"name_cn" : "海报大片"
+		},
+		{
+			"name" : "collocation",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/collocation@2x.png",
+			"name_cn" : "渔式搭配"
+		},
+		{
+			"name" : "Stories",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/stories@2x.png",
+			"name_cn" : "当季故事"
+		},
+		{
+			"name" : "Study",
+			"pic" : "http://127.0.0.1/~apple/fishing/img/category/stories@2x.png",
+			"name_cn" : "培训资料"
+		}
+
+	]
+}

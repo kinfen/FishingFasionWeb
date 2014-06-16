@@ -1,0 +1,11 @@
+{
+	"type" : "intro",
+	"gallary" : [
+		"http://127.0.0.1/~apple/fishing/img/intro/pic1@2x.png",
+		"http://127.0.0.1/~apple/fishing/img/intro/pic2@2x.png",
+		"http://127.0.0.1/~apple/fishing/img/intro/pic3@2x.png",
+		"http://127.0.0.1/~apple/fishing/img/intro/pic1@2x.png",
+		"http://127.0.0.1/~apple/fishing/img/intro/pic2@2x.png",
+		"http://127.0.0.1/~apple/fishing/img/intro/pic3@2x.png"
+		]
+}

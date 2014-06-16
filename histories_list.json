@@ -1,0 +1,11 @@
+{
+	"type" : "histories_list",
+	"list" : [
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat1@2x.png", "time":"2010"},
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat2@2x.png", "time":"2011"},
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat3@2x.png", "time":"2012"},
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat1@2x.png", "time":"2013"},
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat2@2x.png", "time":"2014"},
+		{"id":1234, "preview":"http://127.0.0.1/~apple/fishing/img/stories/cat3@2x.png", "time":"2015"}
+	]
+}

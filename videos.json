@@ -1,0 +1,45 @@
+{
+	"type" : "video_list",
+	"list" : [
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"title" : "标题测试1", 
+			"preview":"http://127.0.0.1/~apple/fishing/img/video/preview_pic@2x.png", 
+			"src" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		}
+	]
+}

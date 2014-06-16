@@ -1,0 +1,54 @@
+{
+	"type" : "study_docment",
+	"list" : [
+		{
+			"id" : 1,
+			"name" : "培训文档1",
+			"type" : "document",
+			"source" : "http://127.0.0.1/~apple/fishing/doc/ShareSDK集成文档.pdf"
+		},
+		{
+			"id" : 2,
+			"name" : "培训视频1",
+			"type" : "video",
+			"source" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"id" : 1,
+			"name" : "培训文档1",
+			"type" : "document",
+			"source" : "http://127.0.0.1/~apple/fishing/doc/ShareSDK集成文档.pdf"
+		},
+		{
+			"id" : 2,
+			"name" : "培训视频1",
+			"type" : "video",
+			"source" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"id" : 1,
+			"name" : "培训文档1",
+			"type" : "document",
+			"source" : "http://127.0.0.1/~apple/fishing/doc/ShareSDK集成文档.pdf"
+		},
+		{
+			"id" : 2,
+			"name" : "培训视频1",
+			"type" : "video",
+			"source" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		},
+		{
+			"id" : 1,
+			"name" : "培训文档1",
+			"type" : "document",
+			"source" : "http://127.0.0.1/~apple/fishing/doc/ShareSDK集成文档.pdf"
+		},
+		{
+			"id" : 2,
+			"name" : "培训视频1",
+			"type" : "video",
+			"source" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		}
+
+	]
+}
