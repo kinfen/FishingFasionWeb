@@ -1,48 +1,33 @@
 {
 	"type" : "sets_list",
-	"background" : "http://127.0.0.1/~apple/fishing/img/sets/sets_bg0.png",
+	"background" : "/img/sets/sets_bg0.png",
 	"title" : "2014冬",
 	"list" : [
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		},
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		},
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		},
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		},
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		},
 		{
 			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "http://127.0.0.1/~apple/fishing/img/sets/sets_category.png"
+			"preview" : "/img/sets/sets_category.png"
 		}
+		
 
 	]
 }

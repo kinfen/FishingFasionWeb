@@ -3,15 +3,16 @@
 	"title" : "序",
 	"gallary":
 			[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
+				
 			]
 }

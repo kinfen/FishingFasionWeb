@@ -1,26 +1,26 @@
 {
 	"type" : "stories_main",
 	"gallary":[
-		"http://127.0.0.1/~apple/fishing/img/stories/gallary@2x.png",
-		"http://127.0.0.1/~apple/fishing/img/stories/gallary@2x.png",
-		"http://127.0.0.1/~apple/fishing/img/stories/gallary@2x.png",
-		"http://127.0.0.1/~apple/fishing/img/stories/gallary@2x.png",
-		"http://127.0.0.1/~apple/fishing/img/stories/gallary@2x.png"
+		"/img/stories/gallary@2x.png",
+		"/img/stories/gallary@2x.png",
+		"/img/stories/gallary@2x.png",
+		"/img/stories/gallary@2x.png",
+		"/img/stories/gallary@2x.png"
 	],
 	"category" : [
 		{
 			"name" : "BRAND STORY",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/stories/cat_story@2x.png",
+			"pic" : "/img/stories/cat_story@2x.png",
 			"name_cn" : "品牌故事"
 		},
 		{
 			"name" : "BRAND HISTORY",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/stories/cat_history@2x.png",
+			"pic" : "/img/stories/cat_history@2x.png",
 			"name_cn" : "品牌历史"
 		},
 		{
 			"name" : "COMPANY PROFILE",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/stories/cat_profile@2x.png",
+			"pic" : "/img/stories/cat_profile@2x.png",
 			"name_cn" : "衣典公司简介"
 		}
 

@@ -1,6 +1,6 @@
 {
 	"type" : "collocation",
-	"background" : "http://127.0.0.1/~apple/fishing/img/sets/sets_bg0.png",
+	"background" : "/img/sets/sets_bg0.png",
 	"title" : "2014冬",
 	"collocation_tips" : 
 	[
@@ -31,15 +31,15 @@
 	],
 	"collocation_pics" : 
 	[
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png",
-		"http://127.0.0.1/~apple/fishing/img/sets/collocation_pic.png"
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png"
 	]
 }

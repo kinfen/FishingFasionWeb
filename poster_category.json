@@ -5,87 +5,83 @@
 			"year": "2000", 
 			"season": "秋冬",
 
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 
 			"gallary":[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
+		
 			]
 		},
 		{
 			"year": "2011", 
 			"season": "秋冬",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 			"gallary":[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
 			]
 		},
 		{
 			"year": "2012", 
 			"season": "秋冬",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 			"gallary":[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
 			]
 		},
 		{
 			"year": "2013", 
 			"season": "秋冬",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 			"gallary":[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
 			]
 		},
 		{
 			"year": "2014", 
 			"season": "秋冬",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 			"gallary":[
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"},
-				{"preview" : "http://127.0.0.1/~apple/fishing/img/poster/graylogo@2x.png" , "pic":"http://127.0.0.1/~apple/fishing/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
 			]
 		}
 	]

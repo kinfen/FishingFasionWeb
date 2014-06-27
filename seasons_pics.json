@@ -4,75 +4,75 @@
 		{
 			"year": "2000", 
 			"season": "秋冬",
-			"background" : "http://127.0.0.1/~apple/fishing/img/seasons/season_bg.png",
+			"background" : "/img/seasons/season_bg.png",
 
 			"gallary":[
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_1@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_2@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_3@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_4@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_5@2x.png"}
+				{"id" : 1, "pic" : "/img/seasons/font_0@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_1@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_2@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_3@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_4@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_5@2x.png"}
 		
 			]
 		},
 		{
 			"year": "2001", 
 			"season": "秋冬",
-			"background" : "http://127.0.0.1/~apple/fishing/img/seasons/season_bg.png",
+			"background" : "/img/seasons/season_bg.png",
 
 			"gallary":[
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"}
+				{"id" : 1, "pic" : "/img/seasons/font_0@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_1@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_2@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_3@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_4@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_5@2x.png"}
 		
 			]
 		},
 		{
 			"year": "2002", 
 			"season": "秋冬",
-			"background" : "http://127.0.0.1/~apple/fishing/img/seasons/season_bg.png",
+			"background" : "/img/seasons/season_bg.png",
 
 			"gallary":[
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"}
+				{"id" : 1, "pic" : "/img/seasons/font_0@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_1@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_2@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_3@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_4@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_5@2x.png"}
 		
 			]
 		},
 		{
 			"year": "2003", 
 			"season": "秋冬",
-			"background" : "http://127.0.0.1/~apple/fishing/img/seasons/season_bg.png",
+			"background" : "/img/seasons/season_bg.png",
 
 			"gallary":[
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"}
+				{"id" : 1, "pic" : "/img/seasons/font_0@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_1@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_2@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_3@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_4@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_5@2x.png"}
 		
 			]
 		},
 		{
 			"year": "2004", 
 			"season": "秋冬",
-			"background" : "http://127.0.0.1/~apple/fishing/img/seasons/season_bg.png",
+			"background" : "/img/seasons/season_bg.png",
 
 			"gallary":[
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"},
-				{"id" : 1, "pic" : "http://127.0.0.1/~apple/fishing/img/seasons/font_0@2x.png"}
+				{"id" : 1, "pic" : "/img/seasons/font_0@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_1@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_2@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_3@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_4@2x.png"},
+				{"id" : 1, "pic" : "/img/seasons/font_5@2x.png"}
 		
 			]
 		},
