@@ -1,0 +1,120 @@
+首先：每一个json的type都是用于认别的，没有程式会使用，可以不必关注
+下面都是原始的json数据，尽量不要调整属性的名字，如果相似格式数据可以考虑合并为一个接口，但需要标明修改后的对应关系。
+
+
+categorys.json
+参数：首页栏目需要的数据，可以不传id。
+
+格式:
+{
+	"type" : "categorys",
+	"data" : [
+		{
+			"name" : "BRANK",
+			"pic" : "/img/category/brand@2x.png",
+			"name_cn" : "品牌介绍"
+		},
+		{
+			"name" : "POSTER",
+			"pic" : "/img/category/poster@2x.png",
+			"name_cn" : "海报大片"
+		}
+		...
+	]
+}
+
+collocation.json
+sets_category.json
+sets_list.json
+产品搭配的三个页面由这三个json支撑
+
+sets_category.json对应产品搭配中的系统主题，需要系统的logo以及系列的图片、标题，list中每一项数据对应设计中一个方格的数据，每一个系统的数据对应设计中一个大页的数据
+sets_list.json 需要给个id读取指定内容，id对应sets_category.json中的sid 对应某个特定系统中点击某个方格后产生的数据，每一项数据对应款式分类那个方格设计的一张图片。
+collocation.json  设计表现为苹果的cover flow 效果，右上角有产品信息信息，内容由sets_list.json中的id指定读取。
+
+display_windows.json
+店铺陈列的厨窗显示，目前未知是否有id指定内容的需求。
+
+
+gallary.json
+seasons_pics.json
+当季故事栏目的两个支撑json,
+seasons_pics.json是主要栏目数据，每一项season数据表示左边菜单的季节数据，gallary项的六项数据表示右边的三个字，
+
+在gallary.json中通过seasons_pics.json的gallary对象的id值读取详细的图片数据，形成大图展示。
+
+
+histories_list.json
+simplewin_des.json
+品版历程的支撑数据，应该不需要传id,但需要根据数据中的id调出一个simplewin_des.json的数据。
+
+
+intro_content.html
+公司简介的右边文字内容支撑
+intro.json
+公司简介的左边图片
+
+login.json
+登录返回数据，登录目前提供用户名，密码，username,psw吧你改好后我再调整
+
+
+news_content.html
+wharf_news.json
+新闻资讯的支撑接口，json为列表数据，content.html根据id调出的内容数据，你懂的
+
+
+poster_category.json
+海报大片的主要支撑接口，pic对应cover flow 中的栏目图片，gallary对应图片点开后的大图及预览图列表。
+
+regist.json
+你懂的，接口只接供username,psw,你懂的
+
+search_list.json
+搜索接口，只提供keyword，预计返回的是与set_list.json一样的数据。
+
+store_display.json
+店铺陈列的主要json,看目录中有三个栏目的陈列数据，需要使用id读取指定栏目数据。
+
+stories_main.json
+品牌介绍主页的数据，gallary为上面大图数据，category为下面三个栏目的图片及名字
+
+stories.html
+品牌介绍的内容页面，应该可以不作发布
+
+study_document.json
+培训学习的数据接口，目前只处理两数附件
+{
+			"id" : 1,
+			"name" : "培训文档1",
+			"type" : "document",
+			"source" : "http://127.0.0.1/~apple/fishing/doc/ShareSDK集成文档.pdf"
+		},
+		{
+			"id" : 2,
+			"name" : "培训视频1",
+			"type" : "video",
+			"source" : "http://127.0.0.1/~apple/fishing/video/1830.mp4"
+		}
+type为document即为pdf,type为video即为mp4,id在这里应该无实际作用
+
+
+
+video_list.json
+视频欣赏的支持数据
+
+wharf_clothing_care.json
+衣服护理栏目的大图数据，应该不需要指定id
+
+wharf_main.json
+渔人码头栏目的主页接品数据，分别指定四大内页的图片及名字
+
+wharf_team.json
+渔民同乐的图片列表
+
+
+
+
+
+
+
+
