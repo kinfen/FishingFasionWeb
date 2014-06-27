@@ -3,47 +3,47 @@
 	"data" : [
 		{
 			"name" : "BRANK",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/brand@2x.png",
+			"pic" : "/img/category/brand@2x.png",
 			"name_cn" : "品牌介绍"
 		},
 		{
 			"name" : "POSTER",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/poster@2x.png",
+			"pic" : "/img/category/poster@2x.png",
 			"name_cn" : "海报大片"
 		},
 		{
 			"name" : "VIDEO",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/video@2x.png",
+			"pic" : "/img/category/video@2x.png",
 			"name_cn" : "视频欣赏"
 		},
 		{
 			"name" : "STORIES",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/stories@2x.png",
+			"pic" : "/img/category/stories@2x.png",
 			"name_cn" : "当季故事"
 		},
 		{
 			"name" : "COLLOCATION",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/collocation@2x.png",
+			"pic" : "/img/category/collocation@2x.png",
 			"name_cn" : "渔式搭配"
 		},
 		{
 			"name" : "STORE DISPLAY",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/store_display@2x.png",
+			"pic" : "/img/category/store_display@2x.png",
 			"name_cn" : "店铺陈列"
 		},
 		{
 			"name" : "TRAINING",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/training@2x.png",
+			"pic" : "/img/category/training@2x.png",
 			"name_cn" : "培训学习"
 		},
 		{
 			"name" : "WHARF",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/wharf@2x.png",
+			"pic" : "/img/category/wharf@2x.png",
 			"name_cn" : "渔人码头"
 		},
 		{
 			"name" : "SURVEY",
-			"pic" : "http://127.0.0.1/~apple/fishing/img/category/survey@2x.png",
+			"pic" : "/img/category/survey@2x.png",
 			"name_cn" : "问卷调查"
 		},
 

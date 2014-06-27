@@ -1,0 +1,10 @@
+{
+	"type" : "wharf_clothing_care",
+	"gallary" : [
+		"/img/wharf/care_cover.png",
+		"/img/wharf/care_detail.png",
+		"/img/wharf/care_detail.png",
+		"/img/wharf/care_detail.png",
+		"/img/wharf/care_detail.png"
+	]
+}

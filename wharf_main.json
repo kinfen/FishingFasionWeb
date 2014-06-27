@@ -1,0 +1,26 @@
+{
+	"type" : "wharf_main",
+	"category" : [
+		{
+			"name" : "STORE ADDRESS",
+			"pic" : "/img/wharf/wharf_cate_address@2x.png",
+			"name_cn" : "店铺地址"
+		},
+		{
+			"name" : "NEWS",
+			"pic" : "/img/wharf/wharf_cate_news@2x.png",
+			"name_cn" : "新闻资讯"
+		},
+		{
+			"name" : "CLOTHING CARE",
+			"pic" : "/img/wharf/wharf_cate_care@2x.png",
+			"name_cn" : "衣物护理"
+		},
+		{
+			"name" : "OUR TEAM",
+			"pic" : "/img/wharf/wharf_cate_team@2x.png",
+			"name_cn" : "渔民同乐"
+		}
+
+	]
+}
