@@ -1,11 +1,11 @@
 {
 	"type" : "intro",
 	"gallary" : [
-		"/img/intro/pic1@2x.png",
-		"/img/intro/pic2@2x.png",
-		"/img/intro/pic3@2x.png",
-		"/img/intro/pic1@2x.png",
-		"/img/intro/pic2@2x.png",
-		"/img/intro/pic3@2x.png"
+		"/img/intro/pic1.png",
+		"/img/intro/pic2.png",
+		"/img/intro/pic3.png",
+		"/img/intro/pic1.png",
+		"/img/intro/pic2.png",
+		"/img/intro/pic3.png"
 		]
 }

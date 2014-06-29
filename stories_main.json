@@ -1,26 +1,26 @@
 {
 	"type" : "stories_main",
 	"gallary":[
-		"/img/stories/gallary@2x.png",
-		"/img/stories/gallary@2x.png",
-		"/img/stories/gallary@2x.png",
-		"/img/stories/gallary@2x.png",
-		"/img/stories/gallary@2x.png"
+		"/img/stories/gallary.png",
+		"/img/stories/gallary.png",
+		"/img/stories/gallary.png",
+		"/img/stories/gallary.png",
+		"/img/stories/gallary.png"
 	],
 	"category" : [
 		{
 			"name" : "BRAND STORY",
-			"pic" : "/img/stories/cat_story@2x.png",
+			"pic" : "/img/stories/cat_story.png",
 			"name_cn" : "品牌故事"
 		},
 		{
 			"name" : "BRAND HISTORY",
-			"pic" : "/img/stories/cat_history@2x.png",
+			"pic" : "/img/stories/cat_history.png",
 			"name_cn" : "品牌历史"
 		},
 		{
 			"name" : "COMPANY PROFILE",
-			"pic" : "/img/stories/cat_profile@2x.png",
+			"pic" : "/img/stories/cat_profile.png",
 			"name_cn" : "衣典公司简介"
 		}
 

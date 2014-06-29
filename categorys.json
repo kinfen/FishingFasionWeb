@@ -3,47 +3,47 @@
 	"data" : [
 		{
 			"name" : "BRANK",
-			"pic" : "/img/category/brand@2x.png",
+			"pic" : "/img/category/brand.png",
 			"name_cn" : "品牌介绍"
 		},
 		{
 			"name" : "POSTER",
-			"pic" : "/img/category/poster@2x.png",
+			"pic" : "/img/category/poster.png",
 			"name_cn" : "海报大片"
 		},
 		{
 			"name" : "VIDEO",
-			"pic" : "/img/category/video@2x.png",
+			"pic" : "/img/category/video.png",
 			"name_cn" : "视频欣赏"
 		},
 		{
 			"name" : "STORIES",
-			"pic" : "/img/category/stories@2x.png",
+			"pic" : "/img/category/stories.png",
 			"name_cn" : "当季故事"
 		},
 		{
 			"name" : "COLLOCATION",
-			"pic" : "/img/category/collocation@2x.png",
+			"pic" : "/img/category/collocation.png",
 			"name_cn" : "渔式搭配"
 		},
 		{
 			"name" : "STORE DISPLAY",
-			"pic" : "/img/category/store_display@2x.png",
+			"pic" : "/img/category/store_display.png",
 			"name_cn" : "店铺陈列"
 		},
 		{
 			"name" : "TRAINING",
-			"pic" : "/img/category/training@2x.png",
+			"pic" : "/img/category/training.png",
 			"name_cn" : "培训学习"
 		},
 		{
 			"name" : "WHARF",
-			"pic" : "/img/category/wharf@2x.png",
+			"pic" : "/img/category/wharf.png",
 			"name_cn" : "渔人码头"
 		},
 		{
 			"name" : "SURVEY",
-			"pic" : "/img/category/survey@2x.png",
+			"pic" : "/img/category/survey.png",
 			"name_cn" : "问卷调查"
 		},
 

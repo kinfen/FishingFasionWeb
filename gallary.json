@@ -3,16 +3,16 @@
 	"title" : "序",
 	"gallary":
 			[
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"},
-				{"preview" : "/img/poster/graylogo@2x.png" , "pic":"/img/poster/banner1.png"}
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+				{"preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"}
 				
 			]
 }

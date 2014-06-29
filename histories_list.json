@@ -1,11 +1,11 @@
 {
 	"type" : "histories_list",
 	"list" : [
-		{"id":1234, "preview":"/img/stories/cat1@2x.png", "time":"2010"},
-		{"id":1234, "preview":"/img/stories/cat2@2x.png", "time":"2011"},
-		{"id":1234, "preview":"/img/stories/cat3@2x.png", "time":"2012"},
-		{"id":1234, "preview":"/img/stories/cat1@2x.png", "time":"2013"},
-		{"id":1234, "preview":"/img/stories/cat2@2x.png", "time":"2014"},
-		{"id":1234, "preview":"/img/stories/cat3@2x.png", "time":"2015"}
+		{"id":1234, "preview":"/img/stories/cat1.png", "time":"2010"},
+		{"id":1234, "preview":"/img/stories/cat2.png", "time":"2011"},
+		{"id":1234, "preview":"/img/stories/cat3.png", "time":"2012"},
+		{"id":1234, "preview":"/img/stories/cat1.png", "time":"2013"},
+		{"id":1234, "preview":"/img/stories/cat2.png", "time":"2014"},
+		{"id":1234, "preview":"/img/stories/cat3.png", "time":"2015"}
 	]
 }

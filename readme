@@ -11,12 +11,12 @@ categorys.json
 	"data" : [
 		{
 			"name" : "BRANK",
-			"pic" : "/img/category/brand@2x.png",
+			"pic" : "/img/category/brand.png",
 			"name_cn" : "品牌介绍"
 		},
 		{
 			"name" : "POSTER",
-			"pic" : "/img/category/poster@2x.png",
+			"pic" : "/img/category/poster.png",
 			"name_cn" : "海报大片"
 		}
 		...

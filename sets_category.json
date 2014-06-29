@@ -5,37 +5,37 @@
 		{
 			"cid" : 1,
 			"title" : "系列A", 
-			"logo":"/img/sets/sets_logo@2x.png", 
+			"logo":"/img/sets/sets_logo.png", 
 			"list" : [
 				{
 					"sid" : 1,
 					"title" : "2012春",
-					"preview" : "/img/sets/sets_01@2x.png"
+					"preview" : "/img/sets/sets_01.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012夏",
-					"preview" : "/img/sets/sets_02@2x.png"
+					"preview" : "/img/sets/sets_02.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012秋",
-					"preview" : "/img/sets/sets_03@2x.png"
+					"preview" : "/img/sets/sets_03.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012冬",
-					"preview" : "/img/sets/sets_04@2x.png"
+					"preview" : "/img/sets/sets_04.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2013春",
-					"preview" : "/img/sets/sets_01@2x.png"
+					"preview" : "/img/sets/sets_01.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2014春",
-					"preview" : "/img/sets/sets_02@2x.png"
+					"preview" : "/img/sets/sets_02.png"
 				},
 
 			]
@@ -43,37 +43,37 @@
 		{
 			"cid" : 2,
 			"title" : "系列B", 
-			"logo":"/img/sets/sets_logo@2x.png", 
+			"logo":"/img/sets/sets_logo.png", 
 			"list" : [
 				{
 					"sid" : 1,
 					"title" : "2012春",
-					"preview" : "/img/sets/sets_01@2x.png"
+					"preview" : "/img/sets/sets_01.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012夏",
-					"preview" : "/img/sets/sets_02@2x.png"
+					"preview" : "/img/sets/sets_02.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012秋",
-					"preview" : "/img/sets/sets_03@2x.png"
+					"preview" : "/img/sets/sets_03.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2012冬",
-					"preview" : "/img/sets/sets_04@2x.png"
+					"preview" : "/img/sets/sets_04.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2013春",
-					"preview" : "/img/sets/sets_01@2x.png"
+					"preview" : "/img/sets/sets_01.png"
 				},
 				{
 					"sid" : 1,
 					"title" : "2014春",
-					"preview" : "/img/sets/sets_02@2x.png"
+					"preview" : "/img/sets/sets_02.png"
 				},
 
 			]
