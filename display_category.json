@@ -1,0 +1,25 @@
+{
+	"type" : "display_category",
+	"categorys" : [
+		{
+			"cid" : 1,
+			"name" : "季节陈列指引",
+			"templet" : "pic"
+		},
+		{
+			"cid" : 2,
+			"name" : "陈列基础规范",
+			"templet" : "pic"
+		},
+		{
+			"cid" : 3,
+			"name" : "历年橱窗展示",
+			"templet" : "list"
+		},
+		{
+			"cid" : 4,
+			"name" : "日常规划",
+			"templet" : "pic"
+		}
+	]
+}
