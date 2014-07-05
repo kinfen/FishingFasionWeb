@@ -60,3 +60,19 @@ body{
 	font-size: 14;
 	line-height: 25px;
 }
+.storelist
+{
+	text-align: left;
+	font-family: Microsoft YaHei;
+	font-size: 14;
+	line-height: 25px;
+}
+.storelist .title
+{
+	font-weight: bold;
+}
+.storelist a
+{
+	color: #000000;
+	text-decoration:none;
+}

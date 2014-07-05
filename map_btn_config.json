@@ -1,0 +1,210 @@
+{
+	"type" : "map_btn_config",
+	"btns" : [
+		{
+			"tag" : 3, 
+			"name_cn" : "新疆" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 5, 
+			"name_cn" : "北京" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 1, 
+			"name_cn" : "黑龙江" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 2, 
+			"name_cn" : "吉林" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 4, 
+			"name_cn" : "辽宁" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 6, 
+			"name_cn" : "内蒙古" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 7, 
+			"name_cn" : "天津" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 8, 
+			"name_cn" : "青海" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 9, 
+			"name_cn" : "河北" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 10, 
+			"name_cn" : "宁夏" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 11, 
+			"name_cn" : "山西" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 12, 
+			"name_cn" : "山东" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 13, 
+			"name_cn" : "甘肃" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 14, 
+			"name_cn" : "陕西" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 15, 
+			"name_cn" : "河南" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 16, 
+			"name_cn" : "西藏" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 17, 
+			"name_cn" : "江苏" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 18, 
+			"name_cn" : "上海" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 19, 
+			"name_cn" : "四川" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 20, 
+			"name_cn" : "安徽" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 21, 
+			"name_cn" : "重庆" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 22, 
+			"name_cn" : "湖北" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 23, 
+			"name_cn" : "淅江" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 24, 
+			"name_cn" : "湖南" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 25, 
+			"name_cn" : "江西" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 26, 
+			"name_cn" : "贵州" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 27, 
+			"name_cn" : "福建" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 28, 
+			"name_cn" : "云南" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 29, 
+			"name_cn" : "广东" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 30, 
+			"name_cn" : "台湾" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 31, 
+			"name_cn" : "香港" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 32, 
+			"name_cn" : "广西" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 33, 
+			"name_cn" : "澳门" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 34, 
+			"name_cn" : "海南" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		}
+	]
+
+}
