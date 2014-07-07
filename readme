@@ -136,6 +136,21 @@ storelist.html
 店铺列表内容静态html,需要发布，参数视接口设计需要可使用province对应map_btn_config的name_cn,或者id对应map_btn_config的id
 
 
+## 7.7 add by kinfen
+
+history_list的结构内容由
+		{"id":1234, "preview":"/img/stories/cat1.png", "time":"2010"},
+更改为
+		{"id":1234, "preview":"/img/stories/cat1.png", "name_cn":"蓝印花", "name":"BLUE PRINT", "time":"2010"},
+
+simeplewin_des.json 接口及其内容不再被项目使用
+相应的内容改由simplewin.html为模板进行发布，参数传递与simple_des.json一致
+
+接口更改详情请见git对比
+
+
+
+
 
 
 

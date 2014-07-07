@@ -76,3 +76,10 @@ body{
 	color: #000000;
 	text-decoration:none;
 }
+.simplewin
+{
+	text-align: left;
+	font-family: Microsoft YaHei;
+	font-size: 14;
+	line-height: 25px;
+}
