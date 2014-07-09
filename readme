@@ -146,7 +146,67 @@ history_list的结构内容由
 simeplewin_des.json 接口及其内容不再被项目使用
 相应的内容改由simplewin.html为模板进行发布，参数传递与simple_des.json一致
 
+
+
+##7.9 add by kinfen 主要增加问卷调查以及反馈的接口
+
+questionnaire.json
+该文件需要传值，因为问卷栏目分开员工以及顾客两种，最少两套卷，为保证问卷可以更新，拟使用user=staff或user=client区别，由后台决定哪套问卷。
+结构见下：
+	"id" : 1,   //问卷id
+	"questions" : [
+		{
+			"id" : 1, //问题id
+			"question" : "问题1",
+			"choice" : ["选择1", "选择2", "选择3","选择14", "选择5", "选择6"],
+			"type" : 0  //问题类型 0-单选, 1-多选, 2-问答
+		},
+
+questionsubmit.json
+问卷提交接口，传参可用id=? , 是否还需要用user=staff或client区别看你程序设计是否方便。
+问卷题目内容以这样的方式提交
+q_(问卷id)_(题目id)=?
+如
+q_1_1="选择1"
+
+多项选择
+q_1_1=选择1,选择2
+
+
+视问卷类型的不同，还有会以下的值
+
+如果类型为staff的员工问卷
+username=?
+
+如果类型为client的顾客问卷
+name=?
+city=?
+tel=?
+vip=?
+
+返回结果：
+{
+	"type" : "question_submit",
+	"result" : 1,
+	"message" : "成功提交",
+}
+
+
+feedback.json
+直接别传feedback内容为参数
+
+返回结果：
+{
+	"type" : "。。。",
+	"result" : 1,
+	"message" : "成功提交",
+}
+
+
+
 接口更改详情请见git对比
+
+
 
 
 
