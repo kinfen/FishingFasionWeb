@@ -1,13 +1,31 @@
 {
 	"type" : "wharf_team",
 	"gallary" : [
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png",
-		"/img/wharf/team_bigPic.png"
+		{
+			"category":"快速栏目1",
+			"list" : [
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"}
+			]
+		},
+		{
+			"category":"快速栏目2",
+			"list" : [
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"}
+				
+			]
+		},
+		{
+			"category":"快速栏目3",
+			"list" : [
+				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"}
+				
+			]
+		}
+		
 	]
 }

@@ -202,6 +202,39 @@ feedback.json
 	"message" : "成功提交",
 }
 
+##  7.10 add by kinfen 本修改涉及店铺陈列、店铺地址以及渔民同乐
+
+wharf_team.json
+gallary列表元素修改
+
+ 	"gallary" 中的
+-		"/img/wharf/team_bigPic.png",
+改成
++		{
++			"category":"快速栏目1",
++			"list" : [
++				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
++				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
++				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
++				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"},
++				{"name":"图片1", "src":"/img/wharf/team_bigPic.png"}
++			]
++		},
+
+后台的渔民同乐栏目图片将以子栏目承载
+
+store_display.json
+
+修改与wharf_team.json一致
+逻辑：如果陈列的二级栏目栏目有子栏目，将使用{name:src:}元素，无没有子栏目，可继续使用字符串作元素
+
+storelist.html
+-	<meta name="viewport" content="width=455, height=528, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+修改为
++	<meta name="viewport" content="width=317, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+
+
 
 
 接口更改详情请见git对比

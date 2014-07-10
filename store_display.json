@@ -1,10 +1,31 @@
 {
 	"type" : "store_display",
 	"gallary" : [
-		"/img/wharf/care_cover.png",
-		"/img/wharf/care_detail.png",
-		"/img/wharf/care_detail.png",
-		"/img/wharf/care_detail.png",
-		"/img/wharf/care_detail.png"
+		{
+			"category":"快速栏目1",
+			"list" : [
+				{"src":"/img/wharf/care_cover.png"},
+				{"src":"/img/wharf/care_detail.png"},
+				{"src":"/img/wharf/care_cover.png"},
+				{"src":"/img/wharf/care_cover.png"},
+				{"src":"/img/wharf/care_cover.png"}
+			]
+		},
+		{
+			"category":"快速栏目2",
+			"list" : [
+				{"src":"/img/wharf/care_cover.png"},
+				{"src":"/img/wharf/care_cover.png"}
+				
+			]
+		},
+		{
+			"category":"快速栏目3",
+			"list" : [
+				{"src":"/img/wharf/care_cover.png"}
+				
+			]
+		}
+		
 	]
 }
