@@ -2,18 +2,6 @@
 	"type" : "map_btn_config",
 	"btns" : [
 		{
-			"tag" : 3, 
-			"name_cn" : "新疆" ,
-			 "name" : "XIN JIANG",
-			 "id" : 1
-		},
-		{
-			"tag" : 5, 
-			"name_cn" : "北京" ,
-			 "name" : "XIN JIANG",
-			 "id" : 1
-		},
-		{
 			"tag" : 1, 
 			"name_cn" : "黑龙江" ,
 			 "name" : "XIN JIANG",
@@ -26,8 +14,20 @@
 			 "id" : 1
 		},
 		{
+			"tag" : 3, 
+			"name_cn" : "新疆" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
 			"tag" : 4, 
 			"name_cn" : "辽宁" ,
+			 "name" : "XIN JIANG",
+			 "id" : 1
+		},
+		{
+			"tag" : 5, 
+			"name_cn" : "北京" ,
 			 "name" : "XIN JIANG",
 			 "id" : 1
 		},

@@ -3,14 +3,30 @@
 	"type" : "display_windows",
 	"gallary" : 
 	[	
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
-		{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"}
+		{
+			"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , 
+			"list" : [
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png"
+			]
+		},
+		{
+			"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , 
+			"list" : [
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png"
+			]
+		},
+		{
+			"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , 
+			"list" : [
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png",
+				"/img/poster/banner1.png"
+			]
+		}
 	]
 		
 	

@@ -4,30 +4,48 @@
 	"title" : "2014冬",
 	"list" : [
 		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
-		},
-		{
-			"id" : 1,
-			"preview" : "/img/sets/sets_category.png"
+			"background" : "/img/sets/sets_bg0.png",
+			"title" : "2014冬",
+			"collocation_tips" : 
+			[
+				{
+					"产品名称" : "连衣裙",
+					"款式名称" : "花绽缤纷",
+					"款式编号" : "F14D0065",
+					"款    式" : "黑"
+				},
+				{
+					"产品名称" : "连衣裙",
+					"款式名称" : "花绽缤纷",
+					"款式编号" : "F14D0065",
+					"款    式" : "黑"
+				},
+				{
+					"产品名称" : "连衣裙",
+					"款式名称" : "花绽缤纷",
+					"款式编号" : "F14D0065",
+					"款    式" : "黑"
+				},
+				{
+					"产品名称" : "连衣裙",
+					"款式名称" : "花绽缤纷",
+					"款式编号" : "F14D0065",
+					"款    式" : "黑"
+				}
+			],
+			"collocation_pics" : 
+			[
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png",
+				"/img/sets/collocation_pic.png"
+			]
 		}
-		
-
 	]
 }
