@@ -234,8 +234,96 @@ storelist.html
 +	<meta name="viewport" content="width=317, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 
 
+## 7.21 dd by kinfen
+
+display_windows.json
+
+gallary数组的元素由
+
+{"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , "pic":"/img/poster/banner1.png"},
+
+改成
+{
+		"title":"窗口标题1", "preview" : "/img/poster/graylogo.png" , 
+		"list" : [
+			"/img/poster/banner1.png",
+			"/img/poster/banner1.png",
+			"/img/poster/banner1.png"
+		]
+}，
+橱窗图片内容部分支持多张图片
 
 
+ sets_list.json
+
+ list的数组元素由
+{
+	"id" : 1,
+	"preview" : "/img/sets/sets_category.png"
+},
+
+改成
+{
+	"background" : "/img/sets/sets_bg0.png",
+	"title" : "2014冬",
+	"collocation_tips" : 
+	[
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		},
+		{
+			"产品名称" : "连衣裙",
+			"款式名称" : "花绽缤纷",
+			"款式编号" : "F14D0065",
+			"款    式" : "黑"
+		}
+	],
+	"collocation_pics" : 
+	[
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png",
+		"/img/sets/collocation_pic.png"
+	]
+}
+
+作用是整合下一步的加载接口collocation的"collocation_tips"和collocation_pics元素，
+collocation接口不再被需要。
+更新了一个图片尺寸的excel说明文档，为普清标准。
+
+## 7.26 add by kinfen
+
+poster_category.json(json/poster)
+原接口使用目录为海报大片, 当季故事将改名将使用同一模板，
+接口更名为coverflow_album, 
+参数:cid
+以栏目cid作为父栏目id传值。
+
+wharf_main.json(json/wharf)
+更名为sub_category，
+参数:cid
+陈列部分增加一个模板，同样使用该接口格式，用cid作为父栏目id传值
 
 接口更改详情请见git对比
 
