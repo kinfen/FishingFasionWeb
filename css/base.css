@@ -83,3 +83,10 @@ body{
 	font-size: 14;
 	line-height: 25px;
 }
+.qrcode
+{
+	position: relative;
+	text-align: center;
+	float: right;
+	margin-top: -220px;
+}

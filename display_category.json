@@ -1,24 +1,32 @@
 {
 	"type" : "display_category",
-	"categorys" : [
+	"category" : [
 		{
 			"cid" : 1,
-			"name" : "季节陈列指引",
+			"name" : "Visual Merchandising",
+			"name_cn" : "季节陈列指引",
+			"pic" : "/img/wharf/wharf_cate_address.png",
 			"templet" : "pic"
 		},
 		{
 			"cid" : 2,
-			"name" : "陈列基础规范",
+			"name" : "Display Standards",
+			"name_cn" : "陈列基础规范",
+			"pic" : "/img/wharf/wharf_cate_address.png",
 			"templet" : "pic"
 		},
 		{
 			"cid" : 3,
-			"name" : "历年橱窗展示",
+			"name" : "Windows Display",
+			"name_cn" : "历年橱窗展示",
+			"pic" : "/img/wharf/wharf_cate_address.png",
 			"templet" : "list"
 		},
 		{
 			"cid" : 4,
-			"name" : "日常规划",
+			"name" : "",
+			"name_cn" : "日常规划",
+			"pic" : "/img/wharf/wharf_cate_address.png",
 			"templet" : "pic"
 		}
 	]

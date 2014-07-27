@@ -325,6 +325,37 @@ wharf_main.json(json/wharf)
 参数:cid
 陈列部分增加一个模板，同样使用该接口格式，用cid作为父栏目id传值
 
+
+
+## 7.27 add by kinfen
+wharf_main.json(json/wharf)可以不用改名，
+
+因为陈列那部分已经有类似的接口（displayCategory）
+
+
+
+display_category.json(json/displayCategory)
+统一数组属性名为cagegory,所以这里的cagegorys的's'需要去掉
+
+原数组元素
+{
+	"cid" : 1,
+	"name" : "季节陈列指引",
+	"templet" : "pic"
+},
+修改成
+{
+	"cid" : 1,
+	"name" : "Visual Merchandising",
+	"name_cn" : "季节陈列指引",
+	"pic" : "/img/wharf/wharf_cate_address.png",
+	"templet" : "pic"
+},
+
+其中栏目名分中英文，中文部分移至name_cn，这是为了与wharf接口保持一致，（可以与wharf整合为一个接口模板，查需要提供cid作为传参）
+
+
+
 接口更改详情请见git对比
 
 
