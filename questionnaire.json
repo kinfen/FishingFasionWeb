@@ -5,25 +5,24 @@
 		{
 			"id" : 1,
 			"question" : "问题1",
-			"choice" : ["选择1", "选择2", "选择3","选择14", "选择5", "选择6"],
+			"choice" : [{"no":"A","option":"选择1"}, {"no":"B","option":"选择1"}, {"no":"C","option":"选择1"}],
 			"type" : 0
 		},
 		{
 			"id" : 2,
 			"question" : "问题2",
-			"choice" : ["选择1", "选择2", "选择3","选择14", "选择5", "选择6"],
+			"choice" : [{"no":"A","option":"选择1"}, {"no":"B","option":"选择1"}, {"no":"C","option":"选择1"}],
 			"type" : 0
 		},
 		{
 			"id" : 3,
 			"question" : "问题3",
-			"choice" : ["选择1", "选择2", "选择3","选择14", "选择5", "选择6"],
+			"choice" : [{"no":"A","option":"选择1"}, {"no":"B","option":"选择1"}, {"no":"C","option":"选择1"}],
 			"type" : 1
 		},
 		{
 			"id" : 4,
 			"question" : "问题4",
-			"choice" : null,
 			"type" : 2
 		}
 

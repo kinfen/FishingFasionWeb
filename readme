@@ -355,6 +355,27 @@ display_category.json(json/displayCategory)
 其中栏目名分中英文，中文部分移至name_cn，这是为了与wharf接口保持一致，（可以与wharf整合为一个接口模板，查需要提供cid作为传参）
 
 
+## 7.28 add by kinfen
+
+json/storiesmain
+增加id作为参数，值为栏目id，
+数组元素中增加id属性，值为子栏目的栏目id.
+
+
+/json/regist
+
+前端在注册页面增加文本框——所属店铺
+注册增加一个参数 regstore
+
+
+## 7.31 add by kinfen 修改了 questionaire的接口的选择项表现方式。
+questionaire.json
+由
+-			"choice" : ["选择1", "选择2", "选择3","选择14", "选择5", "选择6"],
+改为
++			"choice" : [{"no":"A","option":"选择1"}, {"no":"B","option":"选择1"}, {"no":"C","option":"选择1"}],
+
+
 
 接口更改详情请见git对比
 
