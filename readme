@@ -376,6 +376,24 @@ questionaire.json
 +			"choice" : [{"no":"A","option":"选择1"}, {"no":"B","option":"选择1"}, {"no":"C","option":"选择1"}],
 
 
+## 8.26 add by kinfen
+
+修改了categorys接口
+
+json/categorys
+
+增加参数ver ，测试版将传值1.1,以上线的正式版则没有传值，用作区分正式版或测试版的输出内容。测试版1.1的内容中将多一个栏目，你看怎么处理合理。修改尽量不影响正式版的功能。
+
+增加属性backgroud,表示主页的背景，可发布可更换
+data的对象列增加id属性，如下
+
+		{
+			"id" : 1234,
+			"name" : "BRANK",
+			"pic" : "/img/category/brand.png",
+			"name_cn" : "品牌介绍"
+		},
+
 
 接口更改详情请见git对比
 

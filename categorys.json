@@ -1,47 +1,57 @@
 {
 	"type" : "categorys",
+	"background" : "/img/category/brand.png",
 	"data" : [
 		{
+			"id" : 1234,
 			"name" : "BRANK",
 			"pic" : "/img/category/brand.png",
 			"name_cn" : "品牌介绍"
 		},
 		{
+			"id" : 1234,
 			"name" : "POSTER",
 			"pic" : "/img/category/poster.png",
 			"name_cn" : "海报大片"
 		},
 		{
+			"id" : 1234,
 			"name" : "VIDEO",
 			"pic" : "/img/category/video.png",
 			"name_cn" : "视频欣赏"
 		},
 		{
+			"id" : 1234,
 			"name" : "STORIES",
 			"pic" : "/img/category/stories.png",
 			"name_cn" : "当季故事"
 		},
 		{
+			"id" : 1234,
 			"name" : "COLLOCATION",
 			"pic" : "/img/category/collocation.png",
 			"name_cn" : "渔式搭配"
 		},
 		{
+			"id" : 1234,
 			"name" : "STORE DISPLAY",
 			"pic" : "/img/category/store_display.png",
 			"name_cn" : "店铺陈列"
 		},
 		{
+			"id" : 1234,
 			"name" : "TRAINING",
 			"pic" : "/img/category/training.png",
 			"name_cn" : "培训学习"
 		},
 		{
+			"id" : 1234,
 			"name" : "WHARF",
 			"pic" : "/img/category/wharf.png",
 			"name_cn" : "渔人码头"
 		},
 		{
+			"id" : 1234,
 			"name" : "SURVEY",
 			"pic" : "/img/category/survey.png",
 			"name_cn" : "问卷调查"
